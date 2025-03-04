@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">## Olá Me chamo lucas👋<br><br>- 🔭 Focado nos estudos <br>- 🌱 Estudando JavaScript.<br>- ⌨ Contate-me no email: lucasrodrigues4@live.com</p>
+<p align="left">## Olá Me chamo lucas👋<br><br>- 🔭 Focado nos estudos <br>- 🌱 Estudando node.js<br>- ⌨ Contate-me no email: lucasrodrigues4@live.com</p>
 
 ###
 
