@@ -1,39 +1,51 @@
-<h1 align="left">techs</h1>
+# 👨‍💻 Lucas Rodrigues  
 
-###
+Sou um desenvolvedor em formação, apaixonado por tecnologia e sempre buscando aprender algo novo.  
+Atualmente focado em **React** e **Next.js**, além de explorar o ecossistema **Node.js** para me tornar um desenvolvedor fullstack.  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-</div>
+---
 
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">## Olá Me chamo lucas👋<br><br>- 🔭 Focado nos estudos <br>- 🌱 Estudando javascript<br>- ⌨ Contate-me no email: lucasrodrigues4@live.com</p>
-
-###
+## 🚀 Techs  
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trindadelucas0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trindadelucas0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trindadelucas0&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
 </div>
 
-###
+---
+
+## 📊 GitHub Stats  
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trindadelucas0&show_icons=true&theme=dark&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trindadelucas0&layout=compact&langs_count=5&theme=dark" height="150" alt="languages graph" />
+</div>
 
 <div align="center">
-  
-  <a href="https://www.instagram.com/luca.srodr1gu3s?igsh=MWJwZHZhY3E3bGQ2dA=="><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trindadelucas0&theme=nord&area=true" height="300" alt="activity graph" />
 </div>
 
-###
+---
 
+## 📫 Contato  
+
+<div align="center">
+  <a href="mailto:lucasrodrigues4@live.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/luca.srodr1gu3s?igsh=MWJwZHZhY3E3bGQ2dA==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
