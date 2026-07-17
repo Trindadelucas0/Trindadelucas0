@@ -1,6 +1,6 @@
 # 👨‍💻 Lucas Rodrigues
 
-### Engenharia de software · Sistemas fullstack · Backend com regras de negócio
+### Engenheiro de software · Sistemas fullstack · Backend com regras de negócio
 
 Desenvolvedor fullstack focado em projetar e construir sistemas que resolvem problemas reais — da definição das regras até a entrega em produção. Trabalho decisões técnicas, arquitetura e consistência de dados, não apenas a camada de interface.
 
