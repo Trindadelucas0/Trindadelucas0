@@ -26,7 +26,7 @@ Desenvolvedor fullstack focado em projetar e construir sistemas que resolvem pro
 | **Backend** | Node.js |
 | **Banco** | PostgreSQL, SQL |
 | **Infra** | Ubuntu Server, VPS, PM2, Cloudflare |
-| **Ferramentas** | Git, Cursor e fluxos assistidos por IA |
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
